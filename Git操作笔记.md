@@ -2,6 +2,8 @@
 
   https://git-scm.com/book/zh/v2/
   
+  Git ssh免密登录设置：https://blog.csdn.net/w15321271041/article/details/80535135
+  
 - ## 常用命令
 
   > - git init ：在对应目录进入命令行，执行该命令初始化仓库
